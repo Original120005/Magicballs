@@ -1,0 +1,15 @@
+C:\Users\Origi\source\repos\magicball\bin\Debug\magicball.exe.config
+C:\Users\Origi\source\repos\magicball\bin\Debug\magicball.exe
+C:\Users\Origi\source\repos\magicball\bin\Debug\magicball.pdb
+C:\Users\Origi\source\repos\magicball\obj\Debug\magicball.csproj.AssemblyReference.cache
+C:\Users\Origi\source\repos\magicball\obj\Debug\MainWindow.g.cs
+C:\Users\Origi\source\repos\magicball\obj\Debug\App.g.cs
+C:\Users\Origi\source\repos\magicball\obj\Debug\magicball_MarkupCompile.cache
+C:\Users\Origi\source\repos\magicball\obj\Debug\magicball_MarkupCompile.lref
+C:\Users\Origi\source\repos\magicball\obj\Debug\MainWindow.baml
+C:\Users\Origi\source\repos\magicball\obj\Debug\magicball.g.resources
+C:\Users\Origi\source\repos\magicball\obj\Debug\magicball.Properties.Resources.resources
+C:\Users\Origi\source\repos\magicball\obj\Debug\magicball.csproj.GenerateResource.cache
+C:\Users\Origi\source\repos\magicball\obj\Debug\magicball.csproj.CoreCompileInputs.cache
+C:\Users\Origi\source\repos\magicball\obj\Debug\magicball.exe
+C:\Users\Origi\source\repos\magicball\obj\Debug\magicball.pdb
